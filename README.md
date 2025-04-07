@@ -6,8 +6,6 @@ BRASIL SIL SIL
 
 potatoes fly.
 
-second account of [@elidotpy](https://github.com/elidotpy), because im dumb and lost access to [@elidotpy](https://github.com/elidotpy). (womp womp)
-
-hey, atleast i got more experience with git than i had with my first account!
+second account of [@elidotpy](https://github.com/elidotpy)
 
 screw emojis, they cringe
